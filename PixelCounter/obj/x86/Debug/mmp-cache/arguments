@@ -1,0 +1,22 @@
+# Version: 2.10.0.105 (cycle8: 979cd55)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/2.10.0.105/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/2.10.0.105/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/Ilko/Projects/PixelCounter/PixelCounter/bin/Debug/ \
+	/name:PixelCounter \
+	/profile:Xamarin.Mac \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.12 \
+	--tls-provider=default \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/Users/Ilko/Projects/PixelCounter/PixelCounter/bin/Debug/PixelCounter.exe \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/mmp-cache \

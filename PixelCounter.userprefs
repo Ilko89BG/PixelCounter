@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B67B59AA-8758-47C6-9F0F-8B0FCB79B2F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PixelCounter/AppDelegate.cs">
+    <Files>
+      <File FileName="PixelCounter/AppDelegate.cs" Line="6" Column="2" />
+      <File FileName="PixelCounter/ViewController.designer.cs" Line="25" Column="23" />
+      <File FileName="PixelCounter/ViewController.cs" Line="118" Column="3" />
+      <File FileName="PixelCounter/Main.cs" Line="10" Column="1" />
+      <File FileName="PixelCounter/Entitlements.plist" />
+      <File FileName="PixelCounter/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.ItemProperties.PixelCounter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

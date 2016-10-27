@@ -1,0 +1,14 @@
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/actool/partial-info.plist
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/actool/asset-manifest.plist
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/actool/bundle/AppIcon.icns
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/ibtool-manifests/link
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/ibtool-link/Main.storyboardc/Info.plist
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/ibtool-link/Main.storyboardc/MainMenu.nib
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/ibtool-link/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/ibtool-link/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/Ilko/Projects/PixelCounter/PixelCounter/bin/Debug/PixelCounter.exe.mdb
+/Users/Ilko/Projects/PixelCounter/PixelCounter/bin/Debug/PixelCounter.exe
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/PixelCounter.exe
+/Users/Ilko/Projects/PixelCounter/PixelCounter/obj/x86/Debug/PixelCounter.exe.mdb
