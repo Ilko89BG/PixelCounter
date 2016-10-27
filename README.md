@@ -1,5 +1,6 @@
 # PixelCounter
-
+            This is a Xamarin.MAC  project.
+            
       This app gives you the sum of the counts all the pixels of the images in the selected folder in MegaPixels. 
       It recognizes only ".png" and ".jpg"(lowercase) extentions.
       
